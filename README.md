@@ -1,5 +1,10 @@
 # IIITH final project (2023)
 
+## Contributors
+
+1. Siddharth Gupta (2021201082)
+2. Pulkit Gupta (2021201037)
+3. Mahesh Dhudhanale (2021201010)
 
 ## Statement
 
