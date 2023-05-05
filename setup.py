@@ -44,7 +44,7 @@ def download_url(url, output_path, show_progress=True):
 
 
 def url_to_data_path(url):
-    return os.path.join('./../data/', url.split('/')[-1])
+    return os.path.join('data/', url.split('/')[-1])
 
 
 def download(args):
@@ -325,7 +325,7 @@ def build_features(args, examples, data_type, out_file, word2idx_dict, char2idx_
         y2s.append(end)
         ids.append(example["id"])
 
-    np.../savez(out_file,
+    np.savez(out_file,
              context_idxs=np.array(context_idxs),
              context_char_idxs=np.array(context_char_idxs),
              ques_idxs=np.array(ques_idxs),
