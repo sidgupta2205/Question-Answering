@@ -30,10 +30,10 @@ The problem of question answering involves developing natural language processin
 
 ## References 
 
-[1] Kim, Yoon (2014) Convolutional Neural Networks for Sentence Classification
+1. Kim, Yoon (2014) Convolutional Neural Networks for Sentence Classification
 (https://arxiv.org/pdf/1408.5882v2.pdf)
-[2] Seo, Minjoon & Kembhavi, Aniruddha & Farhadi, Ali & Hajishirzi, Hananneh (2016) Bidirectional Attention Flow for Machine Comprehension
+2. Seo, Minjoon & Kembhavi, Aniruddha & Farhadi, Ali & Hajishirzi, Hananneh (2016) Bidirectional Attention Flow for Machine Comprehension
 (https://arxiv.org/pdf/1611.01603.pdf)
-[3] https://github.com/HKUST-KnowComp/R-Net/blob/master/prepro.py 
-[4] https://github.com/BangLiu/QANet-PyTorch 
-[5] https://github.com/allenai/bi-att-flow
+3. https://github.com/HKUST-KnowComp/R-Net/blob/master/prepro.py 
+4. https://github.com/BangLiu/QANet-PyTorch 
+5. https://github.com/allenai/bi-att-flow
