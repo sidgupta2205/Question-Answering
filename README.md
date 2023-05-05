@@ -21,4 +21,4 @@
     1. The `train.py` script is the entry point for training a model. It reads command-line arguments, loads the SQuAD dataset, and trains a model.
     2. You may find it helpful to browse the arguments provided by the starter code. Either look directly at the `parser.add_argument` lines in the source code, or run `python train.py -h`.
 
-6. For test the following checkpoint is available https://drive.google.com/file/d/17pAJfAQrEIiDfaXhFjYTEF-3Jyr1sXiV/view?usp=share_link place it under save/train/model-01 or modify code as per your specification
+6. For test the following checkpoint is available https://drive.google.com/file/d/17pAJfAQrEIiDfaXhFjYTEF-3Jyr1sXiV/view?usp=share_link place it under ../save/train/model-01 or modify code as per your specification
